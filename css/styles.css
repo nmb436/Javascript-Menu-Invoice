@@ -1,0 +1,87 @@
+
+
+header{
+    width: 100%;
+    
+    padding:1em;
+    display: inline-block;
+    /*background-image: url("../images/wood.jpg"); */
+    background-color:dimgray;
+    text-align: center;
+}
+
+
+header h1 {
+    color: white;
+    text-transform: uppercase;
+    text-shadow: 2px 2px red;
+    text-transform: uppercase;
+    
+}
+
+#italy{float:left;}
+
+#frmMenu{
+    background-color:lightgray;
+    height:100%;
+    font-weight: 800;
+    padding-left:10em;
+}
+
+#menuone{
+    text-align: inherit;
+    width:50%;
+    float:left;  
+}
+#menutwo{
+     text-align: inherit;
+    width:50%;
+    float:right;
+    
+}
+
+#menuthree{
+     text-align: inherit;
+    margin-top: 1em;
+    width:50%;
+    float:right;  
+}
+
+#menufour{
+    margin-top: 1em;
+     text-align: inherit;
+    width:50%;
+    float:left;  
+}
+
+#menufive{
+     text-align: inherit;
+    margin-top: 1em;
+    width:50%;
+    float:right;  
+}
+
+#menusix{
+     text-align: inherit;
+    width:50%;
+    margin-top: 1em;
+    float:left;  
+}
+
+footer{
+    
+    margin-top: 1em;
+    margin-right:8em;
+    padding-bottom: 1em;
+    width:30%;
+    float:right;
+    background-color: white;
+    border:px solid black;
+    text-align: center;
+}
+
+#frmMenu h3{
+    color: crimson;
+    text-shadow: 1px 1px silver;
+    
+}
